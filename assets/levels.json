@@ -1,0 +1,66 @@
+{
+    "levels": [
+        {
+            "level": 1,
+            "passed": false,
+            "boxes": [
+                {
+                    "x": 10,
+                    "y": 20,
+                    "type": "natural"
+                },
+                {
+                    "x": 100,
+                    "y": 20,
+                    "type": "stone"
+                },
+                {
+                    "x": 110,
+                    "y": 70,
+                    "type": "natural"
+                },
+                {
+                    "x": 177,
+                    "y": 200,
+                    "type": "natural"
+                },
+                {
+                    "x": 160,
+                    "y": 250,
+                    "type": "natural"
+                },
+                {
+                    "x": 227,
+                    "y": 20,
+                    "type": "fire"
+                },
+                {
+                    "x": 227,
+                    "y": 300,
+                    "type": "fire"
+                }
+            ]
+        },
+        {
+            "level": 2,
+            "passed": false,
+            "boxes": [
+                {
+                    "x": 25,
+                    "y": 25,
+                    "type": "natural"
+                },
+                {
+                    "x": 65,
+                    "y": 65,
+                    "type": "natural"
+                },
+                {
+                    "x": 100,
+                    "y": 100,
+                    "type": "natural"
+                }
+            ]
+        }
+    ]
+}
